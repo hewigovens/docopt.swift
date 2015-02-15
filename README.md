@@ -1,4 +1,4 @@
-docopt.swfit
+docopt.swift
 ============
 
 docopt swift port
